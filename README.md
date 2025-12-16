@@ -11,6 +11,21 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ...# Hi 👋 I'm Aniket Yewale
+
+🎓 B.Tech IT Student | Mumbai University  
+💻 Aspiring Data Analyst / Developer  
+📊 Interested in SQL, Data Analysis & ML
+
+## 🛠️ Skills
+- SQL (PostgreSQL)
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 📂 Projects
+- SQL Business Analysis (20+ problems)
+- Loan Prediction (ML)
+- Data Analysis using Kaggle datasets
+
+
