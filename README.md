@@ -24,8 +24,8 @@
 - Git & GitHub
 
 ## 📂 Projects
-- SQL Business Analysis (20+ problems)
-- Loan Prediction (ML)
+- SQL Business Analysis 
+- Power bi Dashboard 
 - Data Analysis using Kaggle datasets
 
 
