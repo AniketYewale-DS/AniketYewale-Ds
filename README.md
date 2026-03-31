@@ -1,6 +1,6 @@
  Hi, I'm Aniket Yewale
 
-🎓 **B.Tech IT Student (Semester 6)** | Mumbai University  
+🎓 **B.Tech IT Student (Semester 8)** | Mumbai University  
 💻 **Aspiring Data Analyst / Software Developer**  
 📊 Passionate about **SQL, Data Analysis, Machine Learning & Web Development**
 
