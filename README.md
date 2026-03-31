@@ -27,5 +27,6 @@
 - SQL Business Analysis 
 - Power bi Dashboard 
 - Data Analysis using Kaggle datasets
+- Ai web/App devlopment
 
 
